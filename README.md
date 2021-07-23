@@ -6,7 +6,7 @@ Implemented with Angular 12 and Material Design
 
 Open the URL  `https://toplearning.com.au/robot` to play the game. (I know this is unnecessary, and I did it just for fun).
 
-<img src="./assets/robot.png">
+<img style="height:500px" src="https://github.com/gregluo2019/toy-robot/tree/main/src/assets/robot.png">
 
 ## Run the simulator
 
